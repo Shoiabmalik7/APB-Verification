@@ -54,12 +54,5 @@ Implements a slave with 8 x 32-bit registers:
 
 ---
 
-## 🧠 Key Learnings
-
-- Protocol-level DV for AMBA APB
-- Assertion-based verification
-- Functional coverage using SystemVerilog
-- Writing reusable test tasks
-- Clean, synthesizable RTL design
 
 
